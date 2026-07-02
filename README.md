@@ -2,9 +2,6 @@
 
 VTown Music is a dynamic Indian music recommendation system built entirely from scratch from first principles. By intentionally bypassing heavy-duty machine learning libraries like PyTorch or TensorFlow, this project implements recommendation logic using raw Python and vector mathematics to explore the fundamental mechanics of feature mapping and spatial similarity.
 
-## 🚀 The Philosophy
-Most modern ML workflows abstract away the underlying math with a single line of code like `model.fit()`. The goal of VTown Music is the exact opposite: to break open the black box. 
-
 This repository documents the journey of building a recommendation engine from a blank CSV file up to a functioning 5-dimensional vector space model, focusing heavily on feature engineering and custom weight metrics.
 
 ## 📊 The Dataset (Hand-Curated)
