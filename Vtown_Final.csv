@@ -1,8 +1,8 @@
 track_id,title,artist,actor,energy,danceability,valence,image_url
-1,Vaathi Coming,Anirudh,Vijay,0.95,0.64,0.58,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/f2/dc/a3f2dc29-fc54-07bb-8f9c-2a3936d21a5d/886448363347.jpg/400x400bb.jpg
-2,Naa Ready,Anirudh,Vijay,0.8,0.73,0.57,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/bf/d4/b0bfd46c-da95-2f95-1f7d-a75aa51c2465/196871252386.jpg/400x400bb.jpg
+1,Vaathi Coming,Anirudh,Vijay,0.95,0.64,0.58,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/38/63/65386384-972b-37a7-159a-9127388bb589/886448346968.jpg/592x592bb.webp
+2,Naa Ready,Anirudh,Vijay,0.8,0.73,0.57,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/98/e4/2598e434-c0b9-b858-3d8f-38df1ce15c61/196873228334.jpg/1200x630bf-60.jpg
 3,Thalapathy Kacheri,Anirudh,Vijay,0.96,0.76,0.69,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/74/eb/ef74eb29-043d-990b-3a83-40fa23db6e58/8903431148827_cover.jpg/400x400bb.jpg
-4,Kutti Story,Anirudh,Vijay,0.56,0.56,0.77,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/f2/dc/a3f2dc29-fc54-07bb-8f9c-2a3936d21a5d/886448363347.jpg/400x400bb.jpg
+4,Kutti Story,Anirudh,Vijay,0.56,0.56,0.77,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/de/07/7bde076f-5c78-c2fd-f082-da9ec5add04a/886448303596.jpg/360x360bb.webp
 5,Oru Pere Varalaaru,Anirudh,Vijay,0.94,0.61,0.37,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/e8/2f/d5e82f3e-f7d0-9294-9082-c23a6be3795e/8903431167262_cover.jpg/400x400bb.jpg
 6,Raavana Mavandaa,Anirudh,Vijay,0.96,0.78,0.26,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/6d/7c/ed6d7ce3-a094-7b73-e9dd-20e2ca998d31/8903431171504_cover.jpg/400x400bb.jpg
 7,Verithanam,AR Rahman,Vijay,0.88,0.6,0.69,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/87/49/598749cf-699b-6e50-b54e-cfc9cc05559c/886447987162.jpg/400x400bb.jpg
@@ -19,7 +19,7 @@ track_id,title,artist,actor,energy,danceability,valence,image_url
 18,Jimikki Ponnu,Anirudh,Vijay,0.83,0.75,0.85,https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/43/1b/09/431b09fe-336a-8fcc-f9ca-641b1d2ac93f/8903431909145_cover.jpg/400x400bb.jpg
 19,Selfie Pulla,Anirudh,Vijay,0.96,0.71,0.77,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ff/97/d6ff97ce-3f3a-f031-8847-f2f46a15f304/196871094689.jpg/400x400bb.jpg
 20,Aathi,Anirudh,Vijay,0.82,0.59,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ff/97/d6ff97ce-3f3a-f031-8847-f2f46a15f304/196871094689.jpg/400x400bb.jpg
-21,Badass,Anirudh,Vijay,0.87,0.62,0.55,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/18/43/da/1843dab2-02e7-153a-7652-5a19b59717c8/00602527660813.rgb.jpg/400x400bb.jpg
+21,Badass,Anirudh,Vijay,0.87,0.62,0.55,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/20/67/f720671c-c971-4c3d-a20e-a0ee1fedfa9e/196871508544.jpg/592x592bb.webp
 22,Ordinary Person,Anirudh,Vijay,0.85,0.72,0.81,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/48/45/dd4845e3-3add-7d7d-88e9-391eac68ef2a/196871570916.jpg/400x400bb.jpg
 23,Ratata (Leo),Anirudh,Vijay,0.86,0.49,0.41,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/92/25/a5922515-312a-93f7-524a-51b2733fdafb/196871571036.jpg/400x400bb.jpg
 24,Vaathi Kabaddi,Anirudh,Vijay,0.97,0.63,0.45,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/8b/43/518b43de-6b57-0726-4d59-f9552f7a5c3b/886449030255.jpg/400x400bb.jpg
@@ -28,7 +28,7 @@ track_id,title,artist,actor,energy,danceability,valence,image_url
 27,Porkanda Singam,Anirudh,Kamal Haasan,0.59,0.53,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/8a/46/e08a4646-feed-5ca6-4c32-ccc3d023fab2/196589272577.jpg/400x400bb.jpg
 28,Vikram Title Track,Anirudh,Kamal Haasan,0.84,0.64,0.14,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/41/01/41410135-baa0-1aab-7417-f6746b0f3c25/196589186973.jpg/400x400bb.jpg
 29,Devara Fear Song,Anirudh,JR NTR,0.9,0.64,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/c6/af/1dc6af82-69e9-5341-5010-a9223fc25709/8903431001368_cover.jpg/400x400bb.jpg
-30,Chuttamalle,Shilpa Rao,JR NTR,0.62,0.68,0.62,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/53/bb/8253bbc0-2f64-df15-12e5-228e0fd28e3a/artwork.jpg/400x400bb.jpg
+30,Chuttamalle,Shilpa Rao,JR NTR,0.62,0.68,0.62,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/66/da/5c66da69-09a9-1a44-b19e-36ac9bf3ddc5/8903431001320_cover.jpg/400x400bb.jpg
 31,Oorum Blood,Sai Abhyankkar,Pradeep,0.63,0.7,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/62/92/b462925b-979e-4cd1-f162-4d62090d6588/cover.jpg/400x400bb.jpg
 32,Kannukulla,Sai Abhyankkar,Pradeep,0.53,0.51,0.39,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/57/c3/7657c308-e37a-1925-8be2-186a479f90e9/cover.jpg/400x400bb.jpg
 33,Verappa,Sai Abhyankkar,Suriya,0.95,0.71,0.33,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/88/06/bb880626-2526-d88a-5d8c-bc26c1f2504b/cover.jpg/400x400bb.jpg
@@ -43,67 +43,84 @@ track_id,title,artist,actor,energy,danceability,valence,image_url
 42,Agilam Nee,Ravi Basrur,Yash,0.55,0.42,0.24,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/88/7c/66887cd8-f090-09ba-28bf-2a1508963dc5/8903431872111_cover.jpg/400x400bb.jpg
 43,Mehbooba KGF,Ravi Basrur,Yash,0.51,0.31,0.28,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/88/7c/66887cd8-f090-09ba-28bf-2a1508963dc5/8903431872111_cover.jpg/400x400bb.jpg
 44,Naatu Naatu,MM Keeravani,JR NTR|Ram Charan,0.99,0.4,0.7,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/39/14/dd3914e5-a2f3-b355-51f3-9a1f0e3ca246/8903431853592_cover.jpg/400x400bb.jpg
-45,Etthara Jenda,MM Keeravani,JR NTR|Ram Charan,0.95,0.51,0.79,https://ui-avatars.com/api/?name=Etthara%20Jenda&background=1db954&color=fff&size=400
-46,Dosti,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.54,https://ui-avatars.com/api/?name=Dosti&background=1db954&color=fff&size=400
+45,Etthara Jenda,MM Keeravani,JR NTR|Ram Charan,0.95,0.51,0.79,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
+46,Dosti,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
 47,Natpu,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/17/48/9617487d-1d7b-3290-91b7-5e848e68bae8/8903431821782_cover.jpg/400x400bb.jpg
-48,Komuram Bheemudo,MM Keeravani,JR NTR|Ram Charan,0.52,0.66,0.52,https://ui-avatars.com/api/?name=Komuram%20Bheemudo&background=1db954&color=fff&size=400
-49,Buttabomma,Thaman,Allu Arjun,0.64,0.67,0.89,https://ui-avatars.com/api/?name=Buttabomma&background=1db954&color=fff&size=400
+48,Komuram Bheemudo,MM Keeravani,JR NTR|Ram Charan,0.52,0.66,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
+49,Buttabomma,Thaman,Allu Arjun,0.64,0.67,0.89,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/58/9e/19589e6d-bec0-b613-326c-dc7b72cb8f64/cover.jpg/592x592bb.webp
 50,Whistle Podu,Vijay,Vijay,0.88,0.65,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/97/f8/ef97f8b7-6425-aae1-d3d5-d68aa5cf57ac/8903431991829_cover.jpg/400x400bb.jpg
 51,Chinna Chinna Kangal,Vijay,Vijay,0.71,0.57,0.31,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/97/f8/ef97f8b7-6425-aae1-d3d5-d68aa5cf57ac/8903431991829_cover.jpg/400x400bb.jpg
 52,Matta,Yuvan,Vijay,0.94,0.7,0.7,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/f4/e9/42f4e9cd-e462-d51b-d044-d1fc19476844/8903431014672_cover.jpg/400x400bb.jpg
 53,Srivalli,Devi Sri Prasad,Allu Arjun,0.6,0.79,0.74,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/ea/b3/6eeab3fe-1ca4-1142-fe08-1b71ae8c8a63/cover.jpg/400x400bb.jpg
 54,Saami Saami,Devi Sri Prasad,Allu Arjun,0.77,0.81,0.87,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/53/c2/a753c2ae-f863-6b20-1242-58172a4815c2/cover.jpg/400x400bb.jpg
-55,Sosseki,Devi Sri Prasad,Allu Arjun,0.68,0.74,0.83,https://ui-avatars.com/api/?name=Sosseki&background=1db954&color=fff&size=400
+55,Sosseki,Devi Sri Prasad,Allu Arjun,0.68,0.74,0.83,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/d7/02/acd70261-cfa2-fafc-ad43-5cbb962715ce/8903431993366_cover.jpg/360x360bb.webp
 56,Aasa Kooda,Sai Abhyankkar,Sai Abhyankkar,0.54,0.68,0.53,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/400x400bb.jpg
 57,Katchi Sera,Sai Abhyankkar,Sai Abhyankkar,0.64,0.76,0.82,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/df/08/80df0808-17e7-ab41-5972-fec5f83e3819/cover.jpg/400x400bb.jpg
 58,Pavazha Malli,Sai Abhyankkar,Sai Abhyankkar,0.8,0.48,0.75,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/c3/e8/41c3e832-58d1-9b4f-5465-c4294a519e4f/cover.jpg/400x400bb.jpg
-59,Sivuni Aana,MM Keeravani,Prabhas,0.78,0.71,0.48,https://ui-avatars.com/api/?name=Sivuni%20Aana&background=1db954&color=fff&size=400
-60,Saaho re Bahubali,MM Keeravani,Prabhas,0.81,0.78,0.62,https://ui-avatars.com/api/?name=Saaho%20re%20Bahubali&background=1db954&color=fff&size=400
+59,Sivuni Aana,MM Keeravani,Prabhas,0.78,0.71,0.48,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/8e/da/1a8edac5-80a7-22aa-c014-f4f1a0190f7a/8905750011301.jpg/592x592bb.webp
+60,Saaho re Bahubali,MM Keeravani,Prabhas,0.81,0.78,0.62,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/8e/da/1a8edac5-80a7-22aa-c014-f4f1a0190f7a/8905750011301.jpg/592x592bb.webp
 61,Jay Jaykara,MM Keeravani,Prabhas,0.72,0.6,0.69,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a1/f0/57a1f010-6ad8-1148-7cd0-140f788b5735/8718857704614.png/400x400bb.jpg
 62,Soja Zara,MM Keeravani,Prabhas,0.56,0.76,0.73,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a1/f0/57a1f010-6ad8-1148-7cd0-140f788b5735/8718857704614.png/400x400bb.jpg
 63,Dhivara,MM Keeravani,Prabhas,0.6,0.68,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/f7/74/d6f7740f-3001-5471-78f3-f72daa326dd6/8903431001399_cover.jpg/400x400bb.jpg
-64,Aari Aari,Shashwat Sachdev,Ranveer Singh,0.89,0.79,0.9,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/45/58/70/45587053-276b-79e3-4dd7-b220cd1e4b54/1AARII-resize-3000x3000-59a55e7264ec6-large.jpg/400x400bb.jpg
-65,Dhurandhar Title Track,Shashwat Sachdev,Ranveer Singh,0.94,0.72,0.29,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/3c/7a/433c7a84-116b-4001-115e-c8e34d57ebd0/886446235608.jpg/400x400bb.jpg
-66,Lutt Le Gaya,Shashwat Sachdev,Ranveer Singh,0.79,0.71,0.25,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/cf/af/cfcfaf49-f337-eeab-2351-dd0a137dc740/8902894362139_cover.jpg/400x400bb.jpg
+64,Aari Aari,Shashwat Sachdev,Ranveer Singh,0.89,0.79,0.9,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/74/08/897408d1-39d9-5d32-06a8-256ea77e4158/8902894362900_cover.jpg/592x592bb.webp
+65,Dhurandhar Title Track,Shashwat Sachdev,Ranveer Singh,0.94,0.72,0.29,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/cc/0e/f7cc0e2b-1412-ceee-0629-1c4b2e01347f/199806106228.jpg/592x592bb.webp
+66,Lutt Le Gaya,Shashwat Sachdev,Ranveer Singh,0.79,0.71,0.25,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/69/42/bd694261-3e85-6fc3-f7e0-25870cdc26a0/199806748190.jpg/360x360bb.webp
 67,Ishq Jalakar-Karvaan,Shashwat Sachdev,Ranveer Singh,0.81,0.79,0.94,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/00/5b/93005b2a-b5d1-25f6-156e-eba657f3e9bb/199806529416.jpg/400x400bb.jpg
 68,Gehra Hua,Arijit Singh,Ranveer Singh,0.49,0.66,0.35,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/0b/a8/870ba8fd-4d3c-2127-1653-39396b132445/199806576946.jpg/400x400bb.jpg
-69,Kesariya,Arijit Singh,Ranbir Kapoor,0.57,0.58,0.44,https://ui-avatars.com/api/?name=Kesariya&background=1db954&color=fff&size=400
-70,Deva Deva,Arijit Singh,Ranbir Kapoor,0.72,0.53,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/57/b6/c7/57b6c7d4-d950-e348-c3b7-b8a18a3fcec5/196589557476.jpg/400x400bb.jpg
-71,Apna Banale,Arijit Singh,,0.56,0.59,0.44,https://ui-avatars.com/api/?name=Apna%20Banale&background=1db954&color=fff&size=400
+69,Kesariya,Arijit Singh,Ranbir Kapoor,0.57,0.58,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/592x592bb.webp
+70,Deva Deva,Arijit Singh,Ranbir Kapoor,0.72,0.53,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/68/72/f9/6872f95d-9c56-beb8-2768-a5c07c304ee6/196589383044.jpg/360x360bb.webp
+71,Apna Banale,Arijit Singh,,0.56,0.59,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/14/de/2914deba-3fac-4a9a-e493-0efd12bf8c69/840214461774.png/360x360bb.webp
 72,Channa Mereya,Arijit Singh,Ranbir Kapoor,0.79,0.48,0.55,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/6e/4d/bc6e4d0c-adec-b431-7b60-16f5689f9664/886446201597.jpg/400x400bb.jpg
-73,Agar Tum Saath ho,Arijit Singh,,0.52,0.56,0.42,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/400x400bb.jpg
-74,Tum Hi Ho,Arijit Singh,,0.45,0.53,0.32,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg
-75,Bulleya,Arijit Singh,Ranbir Kapoor,0.77,0.55,0.7,https://ui-avatars.com/api/?name=Bulleya&background=1db954&color=fff&size=400
-76,Ghoomar,Shreya Ghoshal,Deepika,0.8,0.55,0.74,https://ui-avatars.com/api/?name=Ghoomar&background=1db954&color=fff&size=400
+73,Agar Tum Saath ho,Arijit Singh,Ranbir Kapoor,0.52,0.56,0.42,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/400x400bb.jpg
+74,Tum Hi Ho,Arijit Singh,NaN,0.45,0.53,0.32,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg
+75,Bulleya,Arijit Singh,Ranbir Kapoor,0.77,0.55,0.7,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/400x400bb.jpg
+76,Ghoomar,Shreya Ghoshal,Deepika,0.8,0.55,0.74,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/19/26/1b192691-0179-73ab-3ed7-ae2b923ca71a/8902894360005_cover.jpg/360x360bb.webp
 77,Ghar More Pardesiya,Shreya Ghoshal,Alia,0.98,0.7,0.7,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg
-78,Gerua,Arijeet Singh,SRK,0.67,0.4,0.37,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/29/e5/bc29e55e-ee3e-ab95-7eee-6978cda516f9/886446227542.jpg/400x400bb.jpg
+78,Gerua,Arijit Singh,SRK,0.67,0.4,0.37,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/c8/ee/ddc8ee1d-baeb-0c8b-383f-1eb21bd172c2/886445593280.jpg/360x360bb.webp
 79,Param Sundari,Shreya Ghoshal,Kriti,0.76,0.82,0.82,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/4a/71/0d4a71dd-b09d-50b4-b1e9-6c13ab4bdd1e/886449445875.jpg/400x400bb.jpg
 80,Angaaron,Shreya Ghoshal,Rashmika,0.68,0.74,0.83,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ac/7f/95ac7f6e-5f3a-2f4f-ae1d-c343c4de7aa1/8903431057013_cover.jpg/400x400bb.jpg
 81,Daavudi,Anirudh,JR NTR,0.76,0.79,0.61,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/66/da/5c66da69-09a9-1a44-b19e-36ac9bf3ddc5/8903431001320_cover.jpg/400x400bb.jpg
-82,Chikiri Chikiri,AR Rahman,Ram Charan,0.75,0.81,0.74,https://ui-avatars.com/api/?name=Chikiri%20Chikiri&background=1db954&color=fff&size=400
+82,Chikiri Chikiri,AR Rahman,Ram Charan,0.75,0.81,0.74,https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/db/65/8e/db658e9e-aca0-f760-2c6d-67ea6d2b5f0b/a5113ee6c9cdbe88ad16be1620738c04_Preview_Image_Intermediate_nonvideo_sdr_451662170_2750452769.png/592x592bb.webp
 83,Rai Rai Raa Raa,AR Rahman,Ram Charan,0.92,0.83,0.82,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/64/5f/96645f41-10bb-6770-2aa0-d8c7a5cbe933/8903431185785_cover.jpg/400x400bb.jpg
 84,Kuruchi Madathapetti,Thaman,Mahesh Babu,0.96,0.75,0.86,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/e9/12/ffe9126b-d040-f90c-2df7-6baf1d00d1e6/cover.jpg/400x400bb.jpg
-85,Pehle Bhi Main,Vishal Mishra,Ranbir Kapoor,0.41,0.41,0.28,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/400x400bb.jpg
-86,Satranga,Arijit Singh,Ranbir Kapoor,0.4,0.27,0.53,https://ui-avatars.com/api/?name=Satranga&background=1db954&color=fff&size=400
-87,Arjan Vailly,Bhupinder Babbal,Ranbir Kapoor,0.82,0.53,0.88,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/400x400bb.jpg
-88,Aaj Ki Raat,M Bagchi,Tamannah,0.87,0.72,0.65,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/7f/47/3a7f47da-2330-c758-4460-ce12f9385a82/198588793954.jpg/400x400bb.jpg
-89,Ekla Cholo Re,Rabindranath Tagore,,0.35,0.48,0.45,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/b4/8a/2cb48ae8-a4ff-93ea-050f-e92c10c615e4/196874245293.jpg/400x400bb.jpg
-90,Aami Chini Go Chini Tomare,Rabindranath Tagore,,0.32,0.45,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/92/d4/2292d419-c8f3-059d-13b3-df4e31bf888b/198391993503.jpg/400x400bb.jpg
-91,Pagla Hawar Badol Dine,Rabindranath Tagore,,0.42,0.55,0.58,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/83/6d/e7/836de700-f370-e29c-cbc2-b513fa9e3959/192562328859.jpg/400x400bb.jpg
-92,Mayabono Biharini Horini,Rabindranath Tagore,,0.38,0.5,0.6,https://ui-avatars.com/api/?name=Mayabono%20Biharini%20Horini&background=1db954&color=fff&size=400
-93,Purano Sei Diner Kotha,Rabindranath Tagore,,0.28,0.38,0.4,https://ui-avatars.com/api/?name=Purano%20Sei%20Diner%20Kotha&background=1db954&color=fff&size=400
-94,Bhenge Mor Ghorer Chabi,Rabindranath Tagore,,0.3,0.42,0.48,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/a4/ea/4aa4ea59-ba2e-084d-0893-fea183e952e4/3617661582645.jpg/400x400bb.jpg
-95,Coffee House Er Sei Addata,Manna Dey,,0.42,0.52,0.45,https://ui-avatars.com/api/?name=Coffee%20House%20Er%20Sei%20Addata&background=1db954&color=fff&size=400
-96,Hoyto Tomari Jonno,Manna Dey,Soumitra,0.48,0.58,0.62,https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/be/13/84/be13846c-73da-7a0a-d5c7-940da3ef67e2/194491409456.jpg/400x400bb.jpg
+85,Pehle Bhi Main,Vishal Mishra,Ranbir Kapoor,0.41,0.41,0.28,https://thf.bing.com/th/id/OIP.MfYi0uGzTSXVZm05HZtYBgHaKX?w=115&h=180&c=7&r=0&o=7&cb=thfc1falcon4&dpr=1.5&pid=1.7&rm=3
+86,Satranga,Arijit Singh,Ranbir Kapoor,0.4,0.27,0.53,https://thf.bing.com/th/id/OIP.MfYi0uGzTSXVZm05HZtYBgHaKX?w=115&h=180&c=7&r=0&o=7&cb=thfc1falcon4&dpr=1.5&pid=1.7&rm=3
+87,Arjan Vailly,Bhupinder Babbal,Ranbir Kapoor,0.82,0.53,0.88,https://thf.bing.com/th/id/OIP.MfYi0uGzTSXVZm05HZtYBgHaKX?w=115&h=180&c=7&r=0&o=7&cb=thfc1falcon4&dpr=1.5&pid=1.7&rm=3
+88,Aaj Ki Raat,M Bagchi,Tamannah,0.87,0.72,0.65,https://i.ytimg.com/vi/hxMNYkLN7tI/maxresdefault.jpg
+89,Ekla Cholo Re,Rabindranath Tagore,,0.35,0.48,0.45,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+90,Aami Chini Go Chini Tomare,Rabindranath Tagore,,0.32,0.45,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+91,Pagla Hawar Badol Dine,Rabindranath Tagore,,0.42,0.55,0.58,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+92,Mayabono Biharini Horini,Rabindranath Tagore,,0.38,0.5,0.6,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+93,Purano Sei Diner Kotha,Rabindranath Tagore,,0.28,0.38,0.4,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+94,Bhenge Mor Ghorer Chabi,Rabindranath Tagore,,0.3,0.42,0.48,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/3f/10/5a3f1006-f289-2379-460a-3710bd2ec9d5/191773365462.jpg/1200x1200bf-60.jpg
+95,Coffee House Er Sei Addata,Manna Dey,,0.42,0.52,0.45,https://cdn-images.dzcdn.net/images/cover/2fd620d8f52c81fe8ae5b8df4f12b75a/0x1900-000000-80-0-0.jpg
+96,Hoyto Tomari Jonno,Manna Dey,Soumitra,0.48,0.58,0.62,https://cdn-images.dzcdn.net/images/cover/2fd620d8f52c81fe8ae5b8df4f12b75a/0x1900-000000-80-0-0.jpg
 97,Ei Poth Jodi Na Shes Hoy,Hemanta Mukherjee|Sandhya Mukherjee,Uttam Kumar,0.65,0.6,0.78,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ee/e4/28/eee428d0-7ae0-18d2-aa99-c704c66d918d/191773438296.jpg/400x400bb.jpg
-98,Ki Ashai Bandhilo Khelaghar,Kishore Kumar,Uttam Kumar,0.38,0.45,0.32,https://ui-avatars.com/api/?name=Ki%20Ashai%20Bandhilo%20Khelaghar&background=1db954&color=fff&size=400
-99,Aami Je Jalsaghare,Manna Dey,Uttam Kumar,0.62,0.54,0.58,https://ui-avatars.com/api/?name=Aami%20Je%20Jalsaghare&background=1db954&color=fff&size=400
+98,Ki Ashai Bandhilo Khelaghar,Kishore Kumar,Uttam Kumar,0.38,0.45,0.32,https://c.saavncdn.com/898/Best-Of-Kishore-Kumar-Hindi-1958-20240711103710-500x500.jpg
+99,Aami Je Jalsaghare,Manna Dey,Uttam Kumar,0.62,0.54,0.58,https://cdn-images.dzcdn.net/images/cover/2fd620d8f52c81fe8ae5b8df4f12b75a/0x1900-000000-80-0-0.jpg
 100,Asha Chhilo Bhalobasha Chhilo,Kishore Kumar,Uttam Kumar,0.45,0.5,0.38,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/75/a6/4c75a63f-7410-458c-6192-5714314da3f2/197187916306.jpg/400x400bb.jpg
 101,Phire Eso Anuradha,Kishore Kumar,,0.52,0.56,0.48,https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/35/9c/0a/359c0a57-d726-43f9-7762-a26837d66db6/191773279905.jpg/400x400bb.jpg
-102,Sei Raat Mon Chhilo,Kishore Kumar,,0.4,0.48,0.35,https://ui-avatars.com/api/?name=Sei%20Raat%20Mon%20Chhilo&background=1db954&color=fff&size=400
-103,Chokh Mooche Phei,Kishore Kumar,,0.55,0.58,0.65,https://ui-avatars.com/api/?name=Chokh%20Mooche%20Phei&background=1db954&color=fff&size=400
+102,Sei Raat Mon Chhilo,Kishore Kumar,,0.4,0.48,0.35,https://c.saavncdn.com/898/Best-Of-Kishore-Kumar-Hindi-1958-20240711103710-500x500.jpg
+103,Chokh Mooche Phei,Kishore Kumar,,0.55,0.58,0.65,https://c.saavncdn.com/898/Best-Of-Kishore-Kumar-Hindi-1958-20240711103710-500x500.jpg
 104,Tumi Koto Je Dure,Asha Bhosle,,0.35,0.42,0.3,https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/cd/a6/63cda653-c2c5-78cd-9d36-533be6754f2d/191773287337.jpg/400x400bb.jpg
-105,O Amar Mon Jomuna,Manna Dey,,0.6,0.64,0.72,https://ui-avatars.com/api/?name=O%20Amar%20Mon%20Jomuna&background=1db954&color=fff&size=400
-106,Jibon Khatar Pothe Pothe,Manna Dey,,0.32,0.4,0.28,https://ui-avatars.com/api/?name=Jibon%20Khatar%20Pothe%20Pothe&background=1db954&color=fff&size=400
-107,Eki Sathe Chola,Kishore Kumar,,0.48,0.52,0.55,https://ui-avatars.com/api/?name=Eki%20Sathe%20Chola&background=1db954&color=fff&size=400
-108,Sedin Dudhe Altao,Kishore Kumar,,0.58,0.62,0.68,https://ui-avatars.com/api/?name=Sedin%20Dudhe%20Altao&background=1db954&color=fff&size=400
+105,O Amar Mon Jomuna,Manna Dey,,0.6,0.64,0.72,https://cdn-images.dzcdn.net/images/cover/2fd620d8f52c81fe8ae5b8df4f12b75a/0x1900-000000-80-0-0.jpg
+106,Jibon Khatar Pothe Pothe,Manna Dey,,0.32,0.4,0.28,https://cdn-images.dzcdn.net/images/cover/2fd620d8f52c81fe8ae5b8df4f12b75a/0x1900-000000-80-0-0.jpg
+107,Eki Sathe Chola,Kishore Kumar,,0.48,0.52,0.55,https://c.saavncdn.com/898/Best-Of-Kishore-Kumar-Hindi-1958-20240711103710-500x500.jpg
+108,Sedin Dudhe Altao,Kishore Kumar,,0.58,0.62,0.68,https://c.saavncdn.com/898/Best-Of-Kishore-Kumar-Hindi-1958-20240711103710-500x500.jpg
+109,Mari Maree,Sreerama Chandra,MS Dhoni,0.64,0.39,0.41,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/35/64/d5356486-f2b2-3526-0c6a-525fdd27e69f/8903431622396_cover.jpg/400x400bb.jpg
+110,Vellake,Bharatt-Saurabh,,0.63,0.65,0.44,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/18/f3/1f18f3f9-7910-e895-b91d-0fa013887f5c/cover.jpg/400x400bb.jpg
+111,Dil Lagana Mana Tha,Krish Mondal,,0.47,0.79,0.66,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/09/1e/0f091e2c-fe92-ae64-b913-45b218e1f685/8909339567661.png/400x400bb.jpg
+112,Jo Tum Mere Ho,Anuv Jain,,0.3,0.46,0.18,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/400x400bb.jpg
+113,Zaalima,Arijit Singh,Shah Rukh Khan,0.9,0.49,0.65,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/f2/3f/1cf23fe8-700b-f3ee-a6f5-5db99c40beb5/840780181069.png/400x400bb.jpg
+114,Bekhayali,Sachet Tandon,Shahid Kapoor,0.58,0.31,0.34,https://m.media-amazon.com/images/I/71UXkorikgL._SL1500_.jpg
+115,Humsafar,Sachet-Parampara,,0.77,0.37,0.53,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/6e/e7/7c6ee7c8-c1f3-e40f-1ec7-7ff96d0776f8/8902894358804_cover.jpg/400x400bb.jpg
+116,Dil Ko Karaar Aaya,Rajat Nagpal,Sidharth Shukla,0.45,0.55,0.39,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/ba/7a/0fba7afe-3209-bf16-8e58-7385f9edd4b7/3616407675290_Cover.jpg/400x400bb.jpg
+117,Raataan Lambiyan,Tanishk Bagchi,Sidharth Malhotra,0.63,0.72,0.51,https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/400x400bb.jpg
+118,Vaaste,Dhvani Bhanushali,,0.48,0.44,0.32,https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/03/f2/3303f270-fce2-293a-5bfc-4b9de994abf9/197188946401.jpg/400x400bb.jpg
+119,Teri Aankhon Mein,Darshan Raval,,0.55,0.29,0.14,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/5b/8d/9a5b8d53-2ab6-e5e4-14dc-010bddc34d8e/8903431789099_cover.jpg/400x400bb.jpg
+120,Hawayein,Pritam,Shah Rukh Khan,0.6,0.61,0.45,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/aa/e3/41aae321-0a81-2762-e0eb-c60844109fe7/886446683584.jpg/400x400bb.jpg
+121,Lut Gaye,Jubin Nautiyal,Emraan Hashmi,0.78,0.64,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/43/71/ce437176-4d13-f380-e991-2492a2e63dc8/8903431805706_cover.jpg/400x400bb.jpg
+122,Ye Tune Kya Kiya,Pritam,Akshay Kumar,0.8,0.58,0.73,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/b8/f6/44b8f6f0-8d71-eef7-3176-691f761dacc8/8902894353991_cover.jpg/400x400bb.jpg
+123,Sahiba,Aditya Rikhari,,0.43,0.68,0.43,https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/1b/74/7f1b7432-f87c-2737-8c34-562806709d43/8903431975140_cover.jpg/400x400bb.jpg
+124,Khat,Navjot Ahuja,,0.41,0.59,0.12,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/01/29/ea012994-51e8-6883-e1e1-c71fdd51754f/5026854264479.jpg/360x360bb.webp
+125,Aravindh,Anirudh,Anirudh,0.7,0.82,0.53,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a9/82/dea98265-2b66-f6b1-ca46-dc679fd1c681/26UMGIM77194.rgb.jpg/400x400bb.jpg
