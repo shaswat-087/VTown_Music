@@ -1,8 +1,28 @@
 import numpy as np
 import pandas as pd
+from flask import Flask, render_template, url_for, request, redirect, jsonify
+
+app=Flask(__name__)
+@app.route("/")
+def index():
+    global user
+    feed=recommend(user)
+    repeat_list=[]
+    for track_id,count in play_counts.items():
+     row=df[df['track_id']==track_id]
+     if  count>5:
+        if not row.empty:
+            repeat_list.append({
+                    "title": row.iloc[0]['title'],
+                    "artist": row.iloc[0]['artist'],
+                    "cover": row.iloc[0]['image_url']
+
+                })
+
+    return render_template('index.html',feed=feed,repeat_tracks=repeat_list)
 
 df=pd.read_csv('Vtown_Final.csv')
-info=df[['track_id','title','artist','actor']]
+info=df[['track_id','title','artist','actor',"image_url"]]
 actor_counts = df['actor'].value_counts()
 artist_counts = df['artist'].value_counts()
 play_counts={}
@@ -48,18 +68,14 @@ user=np.array([0.2,0.2,0.5,0.5,0.5])
 N=0
 df['distance'] = np.linalg.norm(arr - user, axis=1)
 top_10 = np.argsort(df['distance'].to_numpy())[:10]
-while True:
-       menu_choice=int(input("Press 1 to Search \n 2 to View Feed \n 3 to View Playlist \n 4 to View Repeat Tracks \n 5 to exit"))
-
-       if menu_choice==5:
-        print("Successful Exit")
-        break
-       if menu_choice==1:
-         choice=input("Search a song you want to listen . \n").strip().lower()
+history_order=[]
+@app.route('/search',methods=['POST'])
+def search():
+         global N,user
+         choice=request.form['choice'].strip().lower()
          found=False
          for i,song in enumerate(content):
             if song==choice:
-                 print(f"\nFound {choice} on row {i}")
                  found=True
                  index=i
                  N=N+1
@@ -67,32 +83,92 @@ while True:
                  track_id=df.iloc[i]['track_id']
                  user=((1-a)*user)+(a*arr[i])
                  play_counts[track_id]=play_counts.get(track_id,0)+1
+                 if track_id in history_order:
+                     history_order.remove(track_id)
+                 history_order.insert(0,track_id)
                  break
                  
          if found:
-            target=user
-            distance=np.linalg.norm(arr-target,axis=1)
-            df['distance'] = distance
-            sorted=np.argsort(distance)
-            top_10=sorted[1:11]
+            
+            searched_song = {
+            "title": df.iloc[index]['title'],
+            "artist": df.iloc[index]['artist'],
+            "cover": df.iloc[index]['image_url'] 
+             }
+            target=arr[index]
+            search_feed=recommend(target)
+            return render_template("index.html",msg=f"Found {choice}",song=searched_song,search_feed=search_feed)
+
          else:
-           print("Song Not Found. Try Searching Again .")
+           return render_template("index.html",msg="Song Not Found. Try Searching Again .")
 
-       if menu_choice==2:
-            print("Here are top 10 songs you would like next")
-            print(df.iloc[top_10]['title'])
-       if menu_choice==3: 
-            for label in quadrant_labels:
-                 sorted_playlist=df[df['playlist']==label].sort_values(by='distance')
+def recommend(target):
+      distance=np.linalg.norm(arr-target,axis=1)
+      df['distance'] = distance
+      sorted=np.argsort(distance)
+      top_10=sorted[1:11]
+      feed_list=[]
+      for i,song in enumerate(top_10):
+        feed={
+           "title": df.iloc[song]['title'],
+            "artist": df.iloc[song]['artist'],
+            "cover": df.iloc[song]['image_url']    
+        
+           
+          }
+        feed_list.append(feed)
+      return feed_list
 
-                 if not sorted_playlist.empty:
-                    print(f"\nYour {label} Mix:")
-                    print(sorted_playlist['title'].to_string(index=True))
-       if menu_choice==4:
-            for track_id,count in play_counts.items():
-                if  count>5:
-                       print("Listen Again ")
-                       print(df[df['track_id']==track_id]['title'])
-       
-       
+@app.route('/playlists')
+def playlist():
+    global N,user
+    if N==0:
+        return render_template("index.html", msg="Try searching to get started", playlists={})
+        
+    playlist_data={}
     
+    distance=np.linalg.norm(arr - user, axis=1)
+    df['distance']=distance
+
+    for label in quadrant_labels:
+        sorted_playlist=df[df['playlist'] == label].sort_values(by='distance')
+        
+        if not sorted_playlist.empty:
+            tracks_list=[]
+            for i, row in sorted_playlist.iterrows():
+                tracks_list.append({
+                    "title": row['title'],
+                    "artist": row['artist'],
+                    "cover": row['image_url']
+                })
+            playlist_data[label]=tracks_list
+
+    return render_template("index.html", playlists=playlist_data)
+
+@app.route("/history")
+def history():
+    global history_order
+    if not history_order:
+        print("Try searching to get started ")
+     
+    history_list=[]
+    
+    for track_id in history_order:
+        row=df[df['track_id']==track_id]
+        if not row.empty:
+          
+                history_list.append({
+                    "title": row.iloc[0]['title'],
+                    "artist": row.iloc[0]['artist'],
+                    "cover": row.iloc[0]['image_url']
+
+                })
+   
+         
+
+
+    return render_template("index.html", history_tracks=history_list)
+
+
+if __name__== "__main__":
+    app.run(debug=True)
