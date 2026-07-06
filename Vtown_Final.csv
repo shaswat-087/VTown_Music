@@ -44,8 +44,8 @@ track_id,title,artist,actor,energy,danceability,valence,image_url
 43,Mehbooba KGF,Ravi Basrur,Yash,0.51,0.31,0.28,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/88/7c/66887cd8-f090-09ba-28bf-2a1508963dc5/8903431872111_cover.jpg/400x400bb.jpg
 44,Naatu Naatu,MM Keeravani,JR NTR|Ram Charan,0.99,0.4,0.7,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/39/14/dd3914e5-a2f3-b355-51f3-9a1f0e3ca246/8903431853592_cover.jpg/400x400bb.jpg
 45,Etthara Jenda,MM Keeravani,JR NTR|Ram Charan,0.95,0.51,0.79,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
-46,Dosti,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
-47,Natpu,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/17/48/9617487d-1d7b-3290-91b7-5e848e68bae8/8903431821782_cover.jpg/400x400bb.jpg
+46,Dosti,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.53,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
+47,Natpu,MM Keeravani,JR NTR|Ram Charan,0.65,0.68,0.53,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/17/48/9617487d-1d7b-3290-91b7-5e848e68bae8/8903431821782_cover.jpg/400x400bb.jpg
 48,Komuram Bheemudo,MM Keeravani,JR NTR|Ram Charan,0.52,0.66,0.52,https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/592x592bb.webp
 49,Buttabomma,Thaman,Allu Arjun,0.64,0.67,0.89,https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/58/9e/19589e6d-bec0-b613-326c-dc7b72cb8f64/cover.jpg/592x592bb.webp
 50,Whistle Podu,Vijay,Vijay,0.88,0.65,0.54,https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/97/f8/ef97f8b7-6425-aae1-d3d5-d68aa5cf57ac/8903431991829_cover.jpg/400x400bb.jpg
