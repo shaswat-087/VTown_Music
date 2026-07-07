@@ -5,7 +5,7 @@ VTown Music is a dynamic Indian music recommendation system built entirely from 
 This repository documents the journey of building a recommendation engine from a blank CSV file up to a functioning 5-dimensional vector space model, focusing heavily on feature engineering and custom weight metrics.
 
 ## 📊 The Dataset (Hand-Curated)
-Instead of relying on a generic, massive global dataset, this system utilizes a manually curated database of **108 songs** tailored specifically to the nuances of Indian cinema and music. Keeping the dataset compact allows for microscopic auditing of how individual audio metrics interact.
+Instead of relying on a generic, massive global dataset, this system utilizes a manually curated database of **125 songs** tailored specifically to the nuances of Indian cinema and music. Keeping the dataset compact allows for microscopic auditing of how individual audio metrics interact.
 
 ### Language Distribution:
 *   **Tamil:** 40 songs
