@@ -14,17 +14,13 @@ A manually audited database tailored to Indian cinema with acoustic metrics (Ene
 
 ## 🧠 Core Mechanics
 
-### 1. 3D to 5D Feature Expansion
+### 3D to 5D Feature Expansion
 
 Upgraded from purely acoustic vectors to include cultural context via normalized artist and actor frequencies:
 
 $$\vec{V} = [\text{Energy}, \text{Danceability}, \text{Valence}, \text{Artist Weight}, \text{Actor Weight}]$$
 
-### 2. Cosine Similarity & The Tempo Paradox
 
-Calculates recommendation scores via vector direction rather than magnitude:
-
-$$\text{Cosine Similarity}(\vec{A}, \vec{B}) = \frac{\vec{A} \cdot \vec{B}}{\|\vec{A}\| \|\vec{B}\|}$$
 
 > **Key Discovery:** Because Cosine Similarity measures vector orientation, two tracks with wildly different BPMs or loudness (dB) can score near-perfect similarity if their structural Energy-to-Valence ratios align.
 
