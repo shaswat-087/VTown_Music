@@ -35,6 +35,6 @@ $$\text{Cosine Similarity}(\vec{A}, \vec{B}) = \frac{\vec{A} \cdot \vec{B}}{\|\v
 Ensure you have Python 3.8+ installed.
 
 ### Install Dependencies
----
+```bash
 pip install -r requirements.txt
----
+
